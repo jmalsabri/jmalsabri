@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jmalsabri
 - 👀 I’m interested in PHP/JAVASCRIPT/SYMFONY
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ZKT FINGERPRINT SDK
 - 📫 How to reach me ...
 
